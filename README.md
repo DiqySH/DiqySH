@@ -1,6 +1,7 @@
 # Hi, there 👋
 
-my name is **Ahmad Shiddiqy Margolang**, I'm from Indonesia
+My name is **Ahmad Shiddiqy Margolang**, I'm from Indonesia
+I'm a Fullstack Developer Website and Software Engineeer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiqySH/DiqySH/output/pacman-contribution-graph-dark.svg">
